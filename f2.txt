@@ -1,1 +1,5 @@
 i am on my own
+
+
+Docker is a container
+k8s is orchstraion tool
